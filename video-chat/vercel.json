@@ -1,6 +1,12 @@
 {
   "functions": {
-    "api/**/*.js": {
+    "components/Notification.jsx": {
+      "runtime": "nodejs12.x"
+    },
+    "components/VideoPlayer.jsx": {
+      "runtime": "nodejs12.x"
+    },
+    "components/Option.jsx": {
       "runtime": "nodejs12.x"
     }
   }
